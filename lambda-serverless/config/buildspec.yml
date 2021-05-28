@@ -9,5 +9,5 @@ phases:
 artifacts:
   type: zip
   files:
-    - template.yml
-    - output.yml
+    - lambda-serverless/template.yml
+    - lambda-serverless/output.yml

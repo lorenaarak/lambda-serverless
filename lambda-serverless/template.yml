@@ -31,4 +31,4 @@ Resources:
                   - lambda.amazonaws.com
               Action:
                 - sts:AssumeRole
-        Path: /lambda-serverless
+        Path: /
